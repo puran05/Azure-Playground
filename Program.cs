@@ -5,10 +5,10 @@ using Microsoft.Azure.Cosmos;
 public class Program
 {
     // Replace <documentEndpoint> with the information created earlier
-    private static readonly string EndpointUri = "https://mycosmos229.documents.azure.com";
+    private static readonly string EndpointUri = "";
 
     // Set variable to the Primary Key from earlier.
-    private static readonly string PrimaryKey = "jGB5h60DANASmaBSfmPgxblo9LwKBoK4x7tfpPunGmmvEK96A0HsAhLzFz6Ms87N245bbdmt1GM0ACDb6ENnbw==";
+    private static readonly string PrimaryKey = "";
 
     // The Cosmos client instance
     private CosmosClient cosmosClient;
