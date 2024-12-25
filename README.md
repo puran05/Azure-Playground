@@ -1,2 +1,2 @@
-# Azure Webapp with Node
-Checking the Azure Resources by creating a azure web app and collecting the data to mongodb
+# Azure-Playground
+Different follow along from MS Learn
